@@ -1,0 +1,30 @@
+header{
+background-color: chocolate;
+padding: 70px;
+text-align: center;
+border-radius: 45;
+word-spacing: 15;
+
+p{
+text-align: end; 
+word-spacing: 19px;
+}
+}
+
+body{
+    background-color: beige;
+    margin-left: 25;
+    margin-right: 25;
+    margin-top: 25;
+    font-size: larger;
+
+}
+
+footer{
+    background-color: chocolate;
+padding: 100px;
+text-align: center;
+border-radius: 45;
+word-spacing: 15;
+}
+
