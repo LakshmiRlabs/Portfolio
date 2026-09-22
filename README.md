@@ -28,8 +28,7 @@ git clone https://github.com/[username]/[repository-name].git
 
 Open `index.html` in a web browser.
 
-## Author 
+## Author
+
 Lakshmi R
 
-**[Your Name]**  
-[GitHub](https://github.com/[username]) · [LinkedIn](https://linkedin.com/in/[username])
