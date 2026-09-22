@@ -18,15 +18,6 @@ mystyle.css      Stylesheet
 lxmy.jpeg        Image asset
 ```
 
-## Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/[username]/[repository-name].git
-```
-
-Open `index.html` in a web browser.
 
 ## Author
 
